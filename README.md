@@ -108,6 +108,7 @@ React’s `useState` is used for managing the core application state:
 const [students, setStudents] = useState(initialStudents);
 const [searchQuery, setSearchQuery] = useState("");
 const [statusFilter, setStatusFilter] = useState("All");
+
 ---
 
 | Challenge                   | Solution                                                   |
